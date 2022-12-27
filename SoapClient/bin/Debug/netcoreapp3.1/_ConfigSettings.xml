@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<settings>
+	<var name="URL" value="http://localhost/Integration/odata" />
+	<var name="Username" value="Test" />
+	<var name="Password" value="Test" />
+	<var name="Action" value="Test" />
+	<var name="LOGS_PATH" value="${basedir}/log" />
+</settings>

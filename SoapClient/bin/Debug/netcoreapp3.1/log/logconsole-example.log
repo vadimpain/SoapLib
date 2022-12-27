@@ -1,0 +1,14 @@
+2022-12-26 14:18:45.5174|Info|Sending a request Body | 
+2022-12-26 14:18:46.3526|Error|The HTTP request is unauthorized with client authentication scheme 'Basic'. The authentication header received from the server was 'Basic realm="Local", Bearer, Negotiate, NTLM'. | 
+2022-12-27 08:25:03.5138|Info|Use URL: {url} | 
+2022-12-27 08:25:03.5312|Info|Use Username: {username} | 
+2022-12-27 08:25:03.5312|Info|Use Password: {password} | 
+2022-12-27 08:25:03.5312|Info|Sending a request Body | 
+2022-12-27 08:25:04.5098|Error|The HTTP request is unauthorized with client authentication scheme 'Basic'. The authentication header received from the server was 'Basic realm="Local", Bearer, Negotiate, NTLM'. | 
+2022-12-27 08:26:47.3994|Info|Use URL: http://localhost/Integration/odata | 
+2022-12-27 08:26:47.4370|Error|Index (zero based) must be greater than or equal to zero and less than the size of the argument list. | 
+2022-12-27 08:27:11.2542|Info|Use URL: http://localhost/Integration/odata | 
+2022-12-27 08:27:11.2759|Info|Use Username: Test | 
+2022-12-27 08:27:11.2759|Info|Use Password: Test | 
+2022-12-27 08:27:11.2759|Info|Sending a request Body | 
+2022-12-27 08:27:11.9411|Error|The HTTP request is unauthorized with client authentication scheme 'Basic'. The authentication header received from the server was 'Basic realm="Local", Bearer, Negotiate, NTLM'. | 
