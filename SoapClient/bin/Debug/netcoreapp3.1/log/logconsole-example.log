@@ -12,3 +12,67 @@
 2022-12-27 08:27:11.2759|Info|Use Password: Test | 
 2022-12-27 08:27:11.2759|Info|Sending a request Body | 
 2022-12-27 08:27:11.9411|Error|The HTTP request is unauthorized with client authentication scheme 'Basic'. The authentication header received from the server was 'Basic realm="Local", Bearer, Negotiate, NTLM'. | 
+2022-12-29 08:28:48.3971|Info|Use URL:   http://localhost/Integration/odataClient | 
+2022-12-29 08:28:48.4192|Info|Use Username: Test | 
+2022-12-29 08:28:48.4192|Info|Use Password: Test | 
+2022-12-29 08:28:48.4196|Info|Sending a request Body | 
+2022-12-29 08:28:49.1341|Error|The HTTP request is unauthorized with client authentication scheme 'Basic'. The authentication header received from the server was 'Basic realm="Local", Bearer, Negotiate, NTLM'. | 
+2022-12-29 08:31:28.6958|Error|An error occured when parsing config file: 'D:\ГТЧ\SoapLib\SoapClient\bin\Debug\netcoreapp3.1\_ConfigSettings.xml'. | 
+2022-12-29 08:32:15.9560|Error|An error occured when parsing config file: 'D:\ГТЧ\SoapLib\SoapClient\bin\Debug\netcoreapp3.1\_ConfigSettings.xml'. | 
+2022-12-29 08:32:27.0824|Error|An error occured when parsing config file: 'D:\ГТЧ\SoapLib\SoapClient\bin\Debug\netcoreapp3.1\_ConfigSettings.xml'. | 
+2022-12-29 08:45:45.8722|Info|Use URL: http://localhost/Integration/odata= | 
+2022-12-29 08:45:45.8905|Info|Use Username: Test | 
+2022-12-29 08:45:45.8905|Info|Use Password: Test | 
+2022-12-29 08:45:45.8905|Info|Sending a request Body | 
+2022-12-29 08:45:46.5159|Error|The HTTP request is unauthorized with client authentication scheme 'Basic'. The authentication header received from the server was 'Basic realm="Local", Bearer, Negotiate, NTLM'. | 
+2022-12-29 08:52:29.3027|Error|An error occured when parsing config file: 'D:\ГТЧ\SoapLib\SoapClient\bin\Debug\netcoreapp3.1\_ConfigSettings.xml'. | 
+2022-12-29 08:53:03.9516|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001 | 
+2022-12-29 08:53:03.9697|Info|Use Username: Test | 
+2022-12-29 08:53:03.9697|Info|Use Password: Test | 
+2022-12-29 08:53:03.9697|Info|Sending a request Body | 
+2022-12-29 08:53:04.2676|Error|The provided URI scheme 'https' is invalid; expected 'http'. (Parameter 'via') | 
+2022-12-29 08:54:00.8945|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/ | 
+2022-12-29 08:54:00.9121|Info|Use Username: Test | 
+2022-12-29 08:54:00.9121|Info|Use Password: Test | 
+2022-12-29 08:54:00.9121|Info|Sending a request Body | 
+2022-12-29 08:54:01.2046|Error|The provided URI scheme 'https' is invalid; expected 'http'. (Parameter 'via') | 
+2022-12-29 08:55:21.9163|Error|An error occured when parsing config file: 'D:\ГТЧ\SoapLib\SoapClient\bin\Debug\netcoreapp3.1\_ConfigSettings.xml'. | 
+2022-12-29 08:56:13.2143|Error|An error occured when parsing config file: 'D:\ГТЧ\SoapLib\SoapClient\bin\Debug\netcoreapp3.1\_ConfigSettings.xml'. | 
+2022-12-29 08:56:47.9570|Error|An error occured when parsing config file: 'D:\ГТЧ\SoapLib\SoapClient\bin\Debug\netcoreapp3.1\_ConfigSettings.xml'. | 
+2022-12-29 09:10:54.8596|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/ | 
+2022-12-29 09:10:54.8788|Info|Use Username: Test | 
+2022-12-29 09:10:54.8788|Info|Use Password: Test | 
+2022-12-29 09:10:54.8788|Info|Sending a request Body | 
+2022-12-29 09:10:55.1589|Error|The provided URI scheme 'https' is invalid; expected 'http'. (Parameter 'via') | 
+2022-12-29 09:13:54.1430|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/ | 
+2022-12-29 09:13:54.1610|Info|Use Username: Test | 
+2022-12-29 09:13:54.1610|Info|Use Password: Test | 
+2022-12-29 09:13:54.1610|Info|Sending a request Body | 
+2022-12-29 09:13:54.8240|Error|There was no endpoint listening at https://dx1-db.codm.gazprom.loc:50001/ that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details. | 
+2022-12-29 09:15:14.9277|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody | 
+2022-12-29 09:15:14.9555|Info|Use Username: Test | 
+2022-12-29 09:15:14.9555|Info|Use Password: Test | 
+2022-12-29 09:15:14.9555|Info|Sending a request Body | 
+2022-12-29 09:15:15.8134|Error|There was no endpoint listening at https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details. | 
+2022-12-29 09:16:44.7486|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/ | 
+2022-12-29 09:16:44.7667|Info|Use Username: Test | 
+2022-12-29 09:16:44.7667|Info|Use Password: Test | 
+2022-12-29 09:16:44.7667|Info|Sending a request Body | 
+2022-12-29 09:16:45.4090|Error|There was no endpoint listening at https://dx1-db.codm.gazprom.loc:50001/ that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details. | 
+2022-12-29 09:17:20.5552|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody | 
+2022-12-29 09:17:20.5742|Info|Use Username: Test | 
+2022-12-29 09:17:20.5742|Info|Use Password: Test | 
+2022-12-29 09:17:20.5742|Info|Sending a request Body | 
+2022-12-29 09:17:21.2160|Error|There was no endpoint listening at https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details. | 
+2022-12-29 09:18:02.1576|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody | 
+2022-12-29 09:18:02.6181|Info|Use Username: Test | 
+2022-12-29 09:18:02.9563|Info|Use Password: Test | 
+2022-12-29 09:18:03.2938|Info|Sending a request Body | 
+2022-12-29 09:32:15.6824|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/ | 
+2022-12-29 09:32:15.7048|Info|Use Username: Test | 
+2022-12-29 09:32:15.7048|Info|Use Password: Test | 
+2022-12-29 09:32:15.7048|Info|Sending a request Body | 
+2022-12-29 09:32:16.4478|Error|There was no endpoint listening at https://dx1-db.codm.gazprom.loc:50001/ that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details. | 
+2022-12-29 09:32:16.4478|Error|Этот хост неизвестен. | 
+2022-12-29 09:32:28.3064|Error|An error occured when parsing config file: 'D:\ГТЧ\SoapLib\SoapClient\bin\Debug\netcoreapp3.1\_ConfigSettings.xml'. | 
+2022-12-29 09:32:28.3243|Error|'=' is an unexpected token. The expected token is ';'. Line 3, position 118. | 

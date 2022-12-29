@@ -11,14 +11,15 @@ namespace SoapClient
         static void Main(string[] args)
         {
             Logger logger = LogManager.GetCurrentClassLogger();
-            const string DefaultConfigSettingsName = @"_ConfigSettings.xml";
-            ConfigSettingsService.SetSourcePath(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, DefaultConfigSettingsName));
+            const string DefaultConfigSettingsName = @"_ConfigSettings.json";
+            var settings = ParserJson.GetJsonSettings(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, DefaultConfigSettingsName));
 
             try
             {
-                var url = ConfigSettingsService.GetConfigSettingsValueByName("URL");
-                var username = ConfigSettingsService.GetConfigSettingsValueByName("Username");
-                var password = ConfigSettingsService.GetConfigSettingsValueByName("Password");
+                var url = settings.URL;
+                var username = settings.Username;
+                var password = settings.Password;
+
                 logger.Info(string.Format("Use URL: {0}", url));
                 logger.Info(string.Format("Use Username: {0}", username));
                 logger.Info(string.Format("Use Password: {0}", password));
@@ -38,6 +39,7 @@ namespace SoapClient
             catch (Exception ex)
             {
                 logger.Error(ex.Message);
+                logger.Error(ex.InnerException.Message);
             }
         }
     }

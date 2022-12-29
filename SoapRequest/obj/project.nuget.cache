@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QkqjN6QMgHTBC3hIGgb5A9Ik9d7SS3LOlrb4nPsWsI6jJNhRo/rJXpFfq/ml2LDu/Y94kLTsGJP4Br9eQaMTFw==",
+  "dgSpecHash": "+t7JAwxIKuCdRNGTOtY/+ytA5laMQlsiNBHsrqkAT5H+PNzXqyA42dTTPk7F2DTHpt01yWX4l+s/yIRLrP4jhA==",
   "success": true,
-  "projectFilePath": "C:\\Source\\git_repository\\GTCH_etc\\SoapRequest\\SoapRequest\\SoapRequest.csproj",
+  "projectFilePath": "D:\\ГТЧ\\SoapLib\\SoapRequest\\SoapRequest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pchelnikov_VN\\.nuget\\packages\\microsoft.extensions.apidescription.client\\3.0.0\\microsoft.extensions.apidescription.client.3.0.0.nupkg.sha512",
     "C:\\Users\\Pchelnikov_VN\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",

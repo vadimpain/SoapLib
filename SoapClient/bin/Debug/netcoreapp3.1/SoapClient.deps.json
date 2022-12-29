@@ -10,6 +10,7 @@
         "dependencies": {
           "ConfigSettings": "1.0.12",
           "NLog": "5.1.0",
+          "Newtonsoft.Json": "13.0.2",
           "SoapRequest": "1.0.0"
         },
         "runtime": {
@@ -26,11 +27,11 @@
       },
       "Microsoft.NETCore.Platforms/2.0.0": {},
       "Microsoft.NETCore.Targets/1.1.0": {},
-      "Newtonsoft.Json/12.0.2": {
+      "Newtonsoft.Json/13.0.2": {
         "runtime": {
           "lib/netstandard2.0/Newtonsoft.Json.dll": {
-            "assemblyVersion": "12.0.0.0",
-            "fileVersion": "12.0.2.23222"
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.2.27524"
           }
         }
       },
@@ -550,7 +551,7 @@
       },
       "SoapRequest/1.0.0": {
         "dependencies": {
-          "Newtonsoft.Json": "12.0.2",
+          "Newtonsoft.Json": "13.0.2",
           "System.Net.Http": "4.3.4",
           "System.ServiceModel.Duplex": "4.7.0",
           "System.ServiceModel.Http": "4.7.0",
@@ -590,12 +591,12 @@
       "path": "microsoft.netcore.targets/1.1.0",
       "hashPath": "microsoft.netcore.targets.1.1.0.nupkg.sha512"
     },
-    "Newtonsoft.Json/12.0.2": {
+    "Newtonsoft.Json/13.0.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-rTK0s2EKlfHsQsH6Yx2smvcTCeyoDNgCW7FEYyV01drPlh2T243PR2DiDXqtC5N4GDm4Ma/lkxfW5a/4793vbA==",
-      "path": "newtonsoft.json/12.0.2",
-      "hashPath": "newtonsoft.json.12.0.2.nupkg.sha512"
+      "sha512": "sha512-R2pZ3B0UjeyHShm9vG+Tu0EBb2lC8b0dFzV9gVn50ofHXh9Smjk6kTn7A/FdAsC8B5cKib1OnGYOXxRBz5XQDg==",
+      "path": "newtonsoft.json/13.0.2",
+      "hashPath": "newtonsoft.json.13.0.2.nupkg.sha512"
     },
     "NLog/5.1.0": {
       "type": "package",

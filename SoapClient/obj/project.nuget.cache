@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ETsaKaFLtLzitomSnlfEaNZLNZ9C0zlRfwLny+Lwr9h6FhlaEy++viQNJeVdmzboKktFk/O4DWAjUHsXCkouig==",
+  "dgSpecHash": "ggtxsYbvZ8n3S6pq5mifhByl9ly+IjmMdjE3JbUf23Z72AO16F/K94qrLkzpsd3YGpBL4DodYjznM+sO0KL0kw==",
   "success": true,
-  "projectFilePath": "C:\\Source\\git_repository\\GTCH_etc\\SoapRequest\\SoapClient\\SoapClient.csproj",
+  "projectFilePath": "D:\\ГТЧ\\SoapLib\\SoapClient\\SoapClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pchelnikov_VN\\.nuget\\packages\\configsettings\\1.0.12\\configsettings.1.0.12.nupkg.sha512",
     "C:\\Users\\Pchelnikov_VN\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\Pchelnikov_VN\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
-    "C:\\Users\\Pchelnikov_VN\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Pchelnikov_VN\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
     "C:\\Users\\Pchelnikov_VN\\.nuget\\packages\\nlog\\5.1.0\\nlog.5.1.0.nupkg.sha512",
     "C:\\Users\\Pchelnikov_VN\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
     "C:\\Users\\Pchelnikov_VN\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",

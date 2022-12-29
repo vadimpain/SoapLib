@@ -18,3 +18,13 @@ C:\Source\git_repository\GTCH_etc\SoapRequest\SoapRequest\obj\Debug\netcoreapp3.
 C:\Source\git_repository\GTCH_etc\SoapRequest\SoapRequest\obj\Debug\netcoreapp3.1\SoapRequest.dll
 C:\Source\git_repository\GTCH_etc\SoapRequest\SoapRequest\obj\Debug\netcoreapp3.1\SoapRequest.pdb
 C:\Source\git_repository\GTCH_etc\SoapRequest\SoapRequest\obj\Debug\netcoreapp3.1\SoapRequest.csproj.AssemblyReference.cache
+D:\ГТЧ\SoapLib\SoapRequest\bin\Debug\netcoreapp3.1\SoapRequest.deps.json
+D:\ГТЧ\SoapLib\SoapRequest\bin\Debug\netcoreapp3.1\SoapRequest.dll
+D:\ГТЧ\SoapLib\SoapRequest\bin\Debug\netcoreapp3.1\SoapRequest.pdb
+D:\ГТЧ\SoapLib\SoapRequest\obj\Debug\netcoreapp3.1\SoapRequest.csproj.AssemblyReference.cache
+D:\ГТЧ\SoapLib\SoapRequest\obj\Debug\netcoreapp3.1\SoapRequest.GeneratedMSBuildEditorConfig.editorconfig
+D:\ГТЧ\SoapLib\SoapRequest\obj\Debug\netcoreapp3.1\SoapRequest.AssemblyInfoInputs.cache
+D:\ГТЧ\SoapLib\SoapRequest\obj\Debug\netcoreapp3.1\SoapRequest.AssemblyInfo.cs
+D:\ГТЧ\SoapLib\SoapRequest\obj\Debug\netcoreapp3.1\SoapRequest.csproj.CoreCompileInputs.cache
+D:\ГТЧ\SoapLib\SoapRequest\obj\Debug\netcoreapp3.1\SoapRequest.dll
+D:\ГТЧ\SoapLib\SoapRequest\obj\Debug\netcoreapp3.1\SoapRequest.pdb

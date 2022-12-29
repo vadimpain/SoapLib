@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Source\\git_repository\\GTCH_etc\\SoapRequest\\SoapRequest\\SoapRequest.csproj": {}
+    "D:\\ГТЧ\\SoapLib\\SoapRequest\\SoapRequest.csproj": {}
   },
   "projects": {
-    "C:\\Source\\git_repository\\GTCH_etc\\SoapRequest\\SoapRequest\\SoapRequest.csproj": {
+    "D:\\ГТЧ\\SoapLib\\SoapRequest\\SoapRequest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Source\\git_repository\\GTCH_etc\\SoapRequest\\SoapRequest\\SoapRequest.csproj",
+        "projectUniqueName": "D:\\ГТЧ\\SoapLib\\SoapRequest\\SoapRequest.csproj",
         "projectName": "SoapRequest",
-        "projectPath": "C:\\Source\\git_repository\\GTCH_etc\\SoapRequest\\SoapRequest\\SoapRequest.csproj",
+        "projectPath": "D:\\ГТЧ\\SoapLib\\SoapRequest\\SoapRequest.csproj",
         "packagesPath": "C:\\Users\\Pchelnikov_VN\\.nuget\\packages\\",
-        "outputPath": "C:\\Source\\git_repository\\GTCH_etc\\SoapRequest\\SoapRequest\\obj\\",
+        "outputPath": "D:\\ГТЧ\\SoapLib\\SoapRequest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pchelnikov_VN\\AppData\\Roaming\\NuGet\\NuGet.Config",

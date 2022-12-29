@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Source\\git_repository\\GTCH_etc\\SoapRequest\\SoapClient\\SoapClient.csproj": {}
+    "D:\\ГТЧ\\SoapLib\\SoapClient\\SoapClient.csproj": {}
   },
   "projects": {
-    "C:\\Source\\git_repository\\GTCH_etc\\SoapRequest\\SoapClient\\SoapClient.csproj": {
+    "D:\\ГТЧ\\SoapLib\\SoapClient\\SoapClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Source\\git_repository\\GTCH_etc\\SoapRequest\\SoapClient\\SoapClient.csproj",
+        "projectUniqueName": "D:\\ГТЧ\\SoapLib\\SoapClient\\SoapClient.csproj",
         "projectName": "SoapClient",
-        "projectPath": "C:\\Source\\git_repository\\GTCH_etc\\SoapRequest\\SoapClient\\SoapClient.csproj",
+        "projectPath": "D:\\ГТЧ\\SoapLib\\SoapClient\\SoapClient.csproj",
         "packagesPath": "C:\\Users\\Pchelnikov_VN\\.nuget\\packages\\",
-        "outputPath": "C:\\Source\\git_repository\\GTCH_etc\\SoapRequest\\SoapClient\\obj\\",
+        "outputPath": "D:\\ГТЧ\\SoapLib\\SoapClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pchelnikov_VN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Source\\git_repository\\GTCH_etc\\SoapRequest\\SoapRequest\\SoapRequest.csproj": {
-                "projectPath": "C:\\Source\\git_repository\\GTCH_etc\\SoapRequest\\SoapRequest\\SoapRequest.csproj"
+              "D:\\ГТЧ\\SoapLib\\SoapRequest\\SoapRequest.csproj": {
+                "projectPath": "D:\\ГТЧ\\SoapLib\\SoapRequest\\SoapRequest.csproj"
               }
             }
           }
@@ -51,6 +51,10 @@
             "NLog": {
               "target": "Package",
               "version": "[5.1.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
             }
           },
           "imports": [
@@ -72,14 +76,14 @@
         }
       }
     },
-    "C:\\Source\\git_repository\\GTCH_etc\\SoapRequest\\SoapRequest\\SoapRequest.csproj": {
+    "D:\\ГТЧ\\SoapLib\\SoapRequest\\SoapRequest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Source\\git_repository\\GTCH_etc\\SoapRequest\\SoapRequest\\SoapRequest.csproj",
+        "projectUniqueName": "D:\\ГТЧ\\SoapLib\\SoapRequest\\SoapRequest.csproj",
         "projectName": "SoapRequest",
-        "projectPath": "C:\\Source\\git_repository\\GTCH_etc\\SoapRequest\\SoapRequest\\SoapRequest.csproj",
+        "projectPath": "D:\\ГТЧ\\SoapLib\\SoapRequest\\SoapRequest.csproj",
         "packagesPath": "C:\\Users\\Pchelnikov_VN\\.nuget\\packages\\",
-        "outputPath": "C:\\Source\\git_repository\\GTCH_etc\\SoapRequest\\SoapRequest\\obj\\",
+        "outputPath": "D:\\ГТЧ\\SoapLib\\SoapRequest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pchelnikov_VN\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -29,7 +29,7 @@
           "lib/netstandard1.0/_._": {}
         }
       },
-      "Newtonsoft.Json/12.0.2": {
+      "Newtonsoft.Json/13.0.2": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
@@ -1013,14 +1013,15 @@
         "runtime.json"
       ]
     },
-    "Newtonsoft.Json/12.0.2": {
-      "sha512": "rTK0s2EKlfHsQsH6Yx2smvcTCeyoDNgCW7FEYyV01drPlh2T243PR2DiDXqtC5N4GDm4Ma/lkxfW5a/4793vbA==",
+    "Newtonsoft.Json/13.0.2": {
+      "sha512": "R2pZ3B0UjeyHShm9vG+Tu0EBb2lC8b0dFzV9gVn50ofHXh9Smjk6kTn7A/FdAsC8B5cKib1OnGYOXxRBz5XQDg==",
       "type": "package",
-      "path": "newtonsoft.json/12.0.2",
+      "path": "newtonsoft.json/13.0.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.md",
+        "README.md",
         "lib/net20/Newtonsoft.Json.dll",
         "lib/net20/Newtonsoft.Json.xml",
         "lib/net35/Newtonsoft.Json.dll",
@@ -1029,18 +1030,17 @@
         "lib/net40/Newtonsoft.Json.xml",
         "lib/net45/Newtonsoft.Json.dll",
         "lib/net45/Newtonsoft.Json.xml",
+        "lib/net6.0/Newtonsoft.Json.dll",
+        "lib/net6.0/Newtonsoft.Json.xml",
         "lib/netstandard1.0/Newtonsoft.Json.dll",
         "lib/netstandard1.0/Newtonsoft.Json.xml",
         "lib/netstandard1.3/Newtonsoft.Json.dll",
         "lib/netstandard1.3/Newtonsoft.Json.xml",
         "lib/netstandard2.0/Newtonsoft.Json.dll",
         "lib/netstandard2.0/Newtonsoft.Json.xml",
-        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
-        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
-        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
-        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
-        "newtonsoft.json.12.0.2.nupkg.sha512",
-        "newtonsoft.json.nuspec"
+        "newtonsoft.json.13.0.2.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
       ]
     },
     "NLog/5.1.0": {
@@ -3598,6 +3598,7 @@
     ".NETCoreApp,Version=v3.1": [
       "ConfigSettings >= 1.0.12",
       "NLog >= 5.1.0",
+      "Newtonsoft.Json >= 13.0.2",
       "SoapRequest >= 1.0.0"
     ]
   },
@@ -3607,11 +3608,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Source\\git_repository\\GTCH_etc\\SoapRequest\\SoapClient\\SoapClient.csproj",
+      "projectUniqueName": "D:\\ГТЧ\\SoapLib\\SoapClient\\SoapClient.csproj",
       "projectName": "SoapClient",
-      "projectPath": "C:\\Source\\git_repository\\GTCH_etc\\SoapRequest\\SoapClient\\SoapClient.csproj",
+      "projectPath": "D:\\ГТЧ\\SoapLib\\SoapClient\\SoapClient.csproj",
       "packagesPath": "C:\\Users\\Pchelnikov_VN\\.nuget\\packages\\",
-      "outputPath": "C:\\Source\\git_repository\\GTCH_etc\\SoapRequest\\SoapClient\\obj\\",
+      "outputPath": "D:\\ГТЧ\\SoapLib\\SoapClient\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pchelnikov_VN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3628,8 +3629,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Source\\git_repository\\GTCH_etc\\SoapRequest\\SoapRequest\\SoapRequest.csproj": {
-              "projectPath": "C:\\Source\\git_repository\\GTCH_etc\\SoapRequest\\SoapRequest\\SoapRequest.csproj"
+            "D:\\ГТЧ\\SoapLib\\SoapRequest\\SoapRequest.csproj": {
+              "projectPath": "D:\\ГТЧ\\SoapLib\\SoapRequest\\SoapRequest.csproj"
             }
           }
         }
@@ -3651,6 +3652,10 @@
           "NLog": {
             "target": "Package",
             "version": "[5.1.0, )"
+          },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[13.0.2, )"
           }
         },
         "imports": [
