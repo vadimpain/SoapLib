@@ -30,11 +30,12 @@ namespace SoapRequest
         public SoapRequest(string url, string userName, string password, TypeDocument typeDocument)
         {
             var binding = new BasicHttpsBinding();
-            binding.Security.Mode = BasicHttpsSecurityMode.TransportWithMessageCredential;
+            binding.Security.Mode = BasicHttpsSecurityMode.Transport;
             binding.Security.Transport.ClientCredentialType = HttpClientCredentialType.Basic;
             binding.MaxBufferSize = int.MaxValue;
             binding.MaxReceivedMessageSize = int.MaxValue;
-            binding.SendTimeout = new TimeSpan(0, 10, 0);
+            binding.SendTimeout = new TimeSpan(0, 10, 0); 
+            System.Net.ServicePointManager.ServerCertificateValidationCallback = (sender, certificate, chain, errors) => true;
 
             switch (typeDocument)
             {
