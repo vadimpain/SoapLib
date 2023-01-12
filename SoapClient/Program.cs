@@ -24,8 +24,10 @@ namespace SoapClient
                 logger.Info(string.Format("Use Username: {0}", username));
                 logger.Info(string.Format("Use Password: {0}", password));
 
-                logger.Info("Sending a request Body");
+                logger.Info("Generate a request Body");
                 var soapRequestBody = new SoapRequest.SoapRequest(url, username, password, SoapRequest.SoapRequest.TypeDocument.EDocumentBody);
+
+                logger.Info("Sending a request Body");
                 soapRequestBody.SetEDocumentBody(TestData.GetExampleDocumentBody());
 
                 logger.Info("Sending a request CardDraft");

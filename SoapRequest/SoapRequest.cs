@@ -29,13 +29,13 @@ namespace SoapRequest
         /// <param name="typeDocument">Тип договора.</param>
         public SoapRequest(string url, string userName, string password, TypeDocument typeDocument)
         {
-            System.Net.ServicePointManager.ServerCertificateValidationCallback = (sender, certificate, chain, errors) => true;
+            System.Net.ServicePointManager.ServerCertificateValidationCallback += (sender, certificate, chain, errors) => true;
             var binding = new BasicHttpsBinding();
             binding.Security.Mode = BasicHttpsSecurityMode.TransportWithMessageCredential;
             binding.Security.Transport.ClientCredentialType = HttpClientCredentialType.Basic;
             binding.MaxBufferSize = int.MaxValue;
             binding.MaxReceivedMessageSize = int.MaxValue;
-            binding.SendTimeout = new TimeSpan(0, 10, 0); 
+            binding.SendTimeout = new TimeSpan(0, 10, 0);
 
             switch (typeDocument)
             {
