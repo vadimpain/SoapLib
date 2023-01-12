@@ -76,3 +76,15 @@
 2022-12-29 09:32:16.4478|Error|Этот хост неизвестен. | 
 2022-12-29 09:32:28.3064|Error|An error occured when parsing config file: 'D:\ГТЧ\SoapLib\SoapClient\bin\Debug\netcoreapp3.1\_ConfigSettings.xml'. | 
 2022-12-29 09:32:28.3243|Error|'=' is an unexpected token. The expected token is ';'. Line 3, position 118. | 
+2023-01-12 14:46:49.7327|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody | 
+2023-01-12 14:46:49.7533|Info|Use Username: Kek | 
+2023-01-12 14:46:49.7533|Info|Use Password: Kek | 
+2023-01-12 14:46:49.7533|Info|Sending a request Body | 
+2023-01-12 14:46:50.9647|Error|There was no endpoint listening at https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details. | 
+2023-01-12 14:46:50.9647|Error|Этот хост неизвестен. | 
+2023-01-12 14:47:31.1303|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody | 
+2023-01-12 14:47:31.1498|Info|Use Username: Kek | 
+2023-01-12 14:47:31.1498|Info|Use Password: Kek | 
+2023-01-12 14:47:31.1498|Info|Sending a request Body | 
+2023-01-12 14:47:32.0930|Error|There was no endpoint listening at https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details. | 
+2023-01-12 14:47:32.0930|Error|Этот хост неизвестен. | 
