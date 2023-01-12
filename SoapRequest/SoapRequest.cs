@@ -31,7 +31,7 @@ namespace SoapRequest
         {
             System.Net.ServicePointManager.ServerCertificateValidationCallback += (sender, certificate, chain, errors) => true;
             var binding = new BasicHttpsBinding();
-            binding.Security.Mode = BasicHttpsSecurityMode.TransportWithMessageCredential;
+            binding.Security.Mode = BasicHttpsSecurityMode.Transport;
             binding.Security.Transport.ClientCredentialType = HttpClientCredentialType.Basic;
             binding.MaxBufferSize = int.MaxValue;
             binding.MaxReceivedMessageSize = int.MaxValue;
