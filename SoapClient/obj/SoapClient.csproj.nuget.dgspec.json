@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ГТЧ\\SoapLib\\SoapClient\\SoapClient.csproj": {}
+    "C:\\Source\\GTCH_lib\\SoapLib\\SoapClient\\SoapClient.csproj": {}
   },
   "projects": {
-    "D:\\ГТЧ\\SoapLib\\SoapClient\\SoapClient.csproj": {
+    "C:\\Source\\GTCH_lib\\SoapLib\\SoapClient\\SoapClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ГТЧ\\SoapLib\\SoapClient\\SoapClient.csproj",
+        "projectUniqueName": "C:\\Source\\GTCH_lib\\SoapLib\\SoapClient\\SoapClient.csproj",
         "projectName": "SoapClient",
-        "projectPath": "D:\\ГТЧ\\SoapLib\\SoapClient\\SoapClient.csproj",
-        "packagesPath": "C:\\Users\\Pchelnikov_VN\\.nuget\\packages\\",
-        "outputPath": "D:\\ГТЧ\\SoapLib\\SoapClient\\obj\\",
+        "projectPath": "C:\\Source\\GTCH_lib\\SoapLib\\SoapClient\\SoapClient.csproj",
+        "packagesPath": "C:\\Users\\deryushev_av\\.nuget\\packages\\",
+        "outputPath": "C:\\Source\\GTCH_lib\\SoapLib\\SoapClient\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Pchelnikov_VN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\deryushev_av\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +32,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\ГТЧ\\SoapLib\\SoapRequest\\SoapRequest.csproj": {
-                "projectPath": "D:\\ГТЧ\\SoapLib\\SoapRequest\\SoapRequest.csproj"
+              "C:\\Source\\GTCH_lib\\SoapLib\\SoapRequest\\SoapRequest.csproj": {
+                "projectPath": "C:\\Source\\GTCH_lib\\SoapLib\\SoapRequest\\SoapRequest.csproj"
               }
             }
           }
@@ -72,21 +76,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\ГТЧ\\SoapLib\\SoapRequest\\SoapRequest.csproj": {
+    "C:\\Source\\GTCH_lib\\SoapLib\\SoapRequest\\SoapRequest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ГТЧ\\SoapLib\\SoapRequest\\SoapRequest.csproj",
+        "projectUniqueName": "C:\\Source\\GTCH_lib\\SoapLib\\SoapRequest\\SoapRequest.csproj",
         "projectName": "SoapRequest",
-        "projectPath": "D:\\ГТЧ\\SoapLib\\SoapRequest\\SoapRequest.csproj",
-        "packagesPath": "C:\\Users\\Pchelnikov_VN\\.nuget\\packages\\",
-        "outputPath": "D:\\ГТЧ\\SoapLib\\SoapRequest\\obj\\",
+        "projectPath": "C:\\Source\\GTCH_lib\\SoapLib\\SoapRequest\\SoapRequest.csproj",
+        "packagesPath": "C:\\Users\\deryushev_av\\.nuget\\packages\\",
+        "outputPath": "C:\\Source\\GTCH_lib\\SoapLib\\SoapRequest\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Pchelnikov_VN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\deryushev_av\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -164,7 +172,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
         }
       }
     }
