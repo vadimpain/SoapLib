@@ -102,3 +102,181 @@
 2023-01-12 15:28:00.0094|Info|Sending a request Body | 
 2023-01-12 15:28:00.8758|Error|There was no endpoint listening at https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details. | 
 2023-01-12 15:28:00.8758|Error|Этот хост неизвестен. | 
+2023-01-16 10:53:20.4876|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody | 
+2023-01-16 10:53:20.5121|Info|Use Username: Kek | 
+2023-01-16 10:53:20.5121|Info|Use Password: Kek | 
+2023-01-16 10:53:20.5121|Info|Generate a request Body | 
+2023-01-16 10:53:20.7068|Info|Sending a request Body | 
+2023-01-16 11:45:32.8483|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody | 
+2023-01-16 11:45:32.8711|Info|Use Username: Kek | 
+2023-01-16 11:45:32.8711|Info|Use Password: Kek | 
+2023-01-16 11:45:32.8711|Info|Generate a request Body | 
+2023-01-16 11:45:33.0423|Info|Sending a request Body | 
+2023-01-16 11:45:33.9052|Error|There was no endpoint listening at https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details. | 
+2023-01-16 11:45:33.9052|Error|Этот хост неизвестен. | 
+2023-01-16 11:46:38.9712|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody | 
+2023-01-16 11:46:38.9892|Info|Use Username: Kek | 
+2023-01-16 11:46:38.9892|Info|Use Password: Kek | 
+2023-01-16 11:46:38.9892|Info|Generate a request Body | 
+2023-01-16 11:46:39.1019|Info|Sending a request Body | 
+2023-01-16 11:46:39.8498|Error|There was no endpoint listening at https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details. | 
+2023-01-16 11:46:39.8498|Error|Этот хост неизвестен. | 
+2023-01-16 11:47:29.1294|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody | 
+2023-01-16 11:47:29.1471|Info|Use Username: Kek | 
+2023-01-16 11:47:29.1471|Info|Use Password: Kek | 
+2023-01-16 11:47:29.1471|Info|Generate a request Body | 
+2023-01-16 11:47:29.2546|Info|Sending a request Body | 
+2023-01-16 11:47:29.3583|Error|There was an error generating the XML document. | 
+2023-01-16 11:47:29.3583|Error|Unable to cast object of type 'EDocumentBody.eDocumentBody' to type 'EDocumentCardDraft.eDocumentCardDraft'. | 
+2023-01-16 11:48:35.7453|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody | 
+2023-01-16 11:48:35.7651|Info|Use Username: Kek | 
+2023-01-16 11:48:35.7651|Info|Use Password: Kek | 
+2023-01-16 11:48:35.7651|Info|Generate a request Body | 
+2023-01-16 11:48:35.8752|Info|Sending a request Body | 
+2023-01-16 11:48:36.6278|Error|There was no endpoint listening at https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details. | 
+2023-01-16 11:48:36.6278|Error|Этот хост неизвестен. | 
+2023-01-16 11:51:18.3298|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody | 
+2023-01-16 11:51:18.3506|Info|Use Username: Kek | 
+2023-01-16 11:51:18.3509|Info|Use Password: Kek | 
+2023-01-16 11:51:18.3509|Info|Generate a request Body | 
+2023-01-16 11:51:18.4650|Info|Sending a request Body | 
+2023-01-16 11:51:18.8891|Error|There was an error generating the XML document. | 
+2023-01-16 11:51:18.8891|Error|The type System.Threading.Tasks.Task`1[[System.Object, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]] was not expected. Use the XmlInclude or SoapInclude attribute to specify types that are not known statically. | 
+2023-01-16 13:31:56.6817|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody | 
+2023-01-16 13:31:56.7018|Info|Use Username: Kek | 
+2023-01-16 13:31:56.7018|Info|Use Password: Kek | 
+2023-01-16 13:31:56.7018|Info|Generate a request Body | 
+2023-01-16 13:31:56.8482|Error|The 'XmlWriterSettings.OmitXmlDeclaration' property is read only and cannot be set. | 
+2023-01-16 13:32:14.6833|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody | 
+2023-01-16 13:32:14.7029|Info|Use Username: Kek | 
+2023-01-16 13:32:14.7029|Info|Use Password: Kek | 
+2023-01-16 13:32:14.7029|Info|Generate a request Body | 
+2023-01-16 13:32:43.6284|Error|The 'XmlWriterSettings.OmitXmlDeclaration' property is read only and cannot be set. | 
+2023-01-16 13:33:02.7041|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody | 
+2023-01-16 13:33:02.7262|Info|Use Username: Kek | 
+2023-01-16 13:33:02.7262|Info|Use Password: Kek | 
+2023-01-16 13:33:02.7262|Info|Generate a request Body | 
+2023-01-16 13:33:05.7522|Error|The 'XmlWriterSettings.OmitXmlDeclaration' property is read only and cannot be set. | 
+2023-01-16 13:33:11.8253|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody | 
+2023-01-16 13:33:11.8437|Info|Use Username: Kek | 
+2023-01-16 13:33:11.8437|Info|Use Password: Kek | 
+2023-01-16 13:33:11.8437|Info|Generate a request Body | 
+2023-01-16 13:34:19.1275|Error|The 'XmlWriterSettings.OmitXmlDeclaration' property is read only and cannot be set. | 
+2023-01-16 13:34:23.7945|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody | 
+2023-01-16 13:34:23.8142|Info|Use Username: Kek | 
+2023-01-16 13:34:23.8142|Info|Use Password: Kek | 
+2023-01-16 13:34:23.8142|Info|Generate a request Body | 
+2023-01-16 13:35:27.8997|Error|The 'XmlWriterSettings.OmitXmlDeclaration' property is read only and cannot be set. | 
+2023-01-16 13:37:08.0691|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody | 
+2023-01-16 13:37:08.0894|Info|Use Username: Kek | 
+2023-01-16 13:37:08.0894|Info|Use Password: Kek | 
+2023-01-16 13:37:08.0894|Info|Generate a request Body | 
+2023-01-16 13:37:40.5914|Info|Sending a request Body | 
+2023-01-16 13:37:40.5914|Info|Sending a request CardDraft | 
+2023-01-16 13:38:38.3037|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody | 
+2023-01-16 13:38:38.3244|Info|Use Username: Kek | 
+2023-01-16 13:38:38.3244|Info|Use Password: Kek | 
+2023-01-16 13:38:38.3244|Info|Generate a request Body | 
+2023-01-16 13:40:35.8259|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody | 
+2023-01-16 13:40:35.8491|Info|Use Username: Kek | 
+2023-01-16 13:40:35.8491|Info|Use Password: Kek | 
+2023-01-16 13:40:35.8491|Info|Generate a request Body | 
+2023-01-16 13:40:50.5552|Info|Sending a request Body | 
+2023-01-16 13:40:50.5552|Info|Sending a request CardDraft | 
+2023-01-16 13:40:52.6541|Info|Sending a request Tender | 
+2023-01-16 13:43:39.0221|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody | 
+2023-01-16 13:43:39.0417|Info|Use Username: Kek | 
+2023-01-16 13:43:39.0417|Info|Use Password: Kek | 
+2023-01-16 13:43:39.0417|Info|Generate a request Body | 
+2023-01-16 13:45:29.1988|Info|Sending a request Body | 
+2023-01-16 13:45:29.1988|Info|Sending a request CardDraft | 
+2023-01-16 13:52:25.1713|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody | 
+2023-01-16 13:52:25.1898|Info|Use Username: Kek | 
+2023-01-16 13:52:25.1898|Info|Use Password: Kek | 
+2023-01-16 13:52:25.1898|Info|Generate a request Body | 
+2023-01-16 13:55:16.3689|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody | 
+2023-01-16 13:55:16.3896|Info|Use Username: Kek | 
+2023-01-16 13:55:16.3896|Info|Use Password: Kek | 
+2023-01-16 13:55:16.3896|Info|Generate a request Body | 
+2023-01-16 13:55:42.0446|Info|Sending a request Body | 
+2023-01-16 13:55:42.0446|Info|Sending a request CardDraft | 
+2023-01-16 13:57:25.7582|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody | 
+2023-01-16 13:57:25.7770|Info|Use Username: Kek | 
+2023-01-16 13:57:25.7770|Info|Use Password: Kek | 
+2023-01-16 13:57:25.7770|Info|Generate a request Body | 
+2023-01-16 14:03:40.1238|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody | 
+2023-01-16 14:03:40.1440|Info|Use Username: Kek | 
+2023-01-16 14:03:40.1440|Info|Use Password: Kek | 
+2023-01-16 14:03:40.1440|Info|Generate a request Body | 
+2023-01-16 14:08:53.4230|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody | 
+2023-01-16 14:08:53.4410|Info|Use Username: Kek | 
+2023-01-16 14:08:53.4410|Info|Use Password: Kek | 
+2023-01-16 14:08:53.4410|Info|Generate a request Body | 
+2023-01-16 14:13:47.6072|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody | 
+2023-01-16 14:13:47.6256|Info|Use Username: Kek | 
+2023-01-16 14:13:47.6256|Info|Use Password: Kek | 
+2023-01-16 14:13:47.6256|Info|Generate a request Body | 
+2023-01-16 14:27:56.8014|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody | 
+2023-01-16 14:27:56.8210|Info|Use Username: Kek | 
+2023-01-16 14:27:56.8210|Info|Use Password: Kek | 
+2023-01-16 14:27:56.8210|Info|Generate a request Body | 
+2023-01-16 14:28:16.9805|Error|Namespace Manager or XsltContext needed. This query has a prefix, variable, or user-defined function. | 
+2023-01-16 14:28:44.8485|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody | 
+2023-01-16 14:28:44.8673|Info|Use Username: Kek | 
+2023-01-16 14:28:44.8673|Info|Use Password: Kek | 
+2023-01-16 14:28:44.8673|Info|Generate a request Body | 
+2023-01-16 14:29:12.6455|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody | 
+2023-01-16 14:29:12.6651|Info|Use Username: Kek | 
+2023-01-16 14:29:12.6651|Info|Use Password: Kek | 
+2023-01-16 14:29:12.6655|Info|Generate a request Body | 
+2023-01-16 14:31:17.8574|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody | 
+2023-01-16 14:31:17.8766|Info|Use Username: Kek | 
+2023-01-16 14:31:17.8766|Info|Use Password: Kek | 
+2023-01-16 14:31:17.8766|Info|Generate a request Body | 
+2023-01-16 14:33:21.2039|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody | 
+2023-01-16 14:33:21.2248|Info|Use Username: Kek | 
+2023-01-16 14:33:21.2248|Info|Use Password: Kek | 
+2023-01-16 14:33:21.2248|Info|Generate a request Body | 
+2023-01-16 14:33:32.6152|Error|Object reference not set to an instance of an object. | 
+2023-01-16 14:34:01.8730|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody | 
+2023-01-16 14:34:01.8919|Info|Use Username: Kek | 
+2023-01-16 14:34:01.8919|Info|Use Password: Kek | 
+2023-01-16 14:34:01.8919|Info|Generate a request Body | 
+2023-01-16 14:37:37.6630|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody | 
+2023-01-16 14:37:37.6832|Info|Use Username: Kek | 
+2023-01-16 14:37:37.6832|Info|Use Password: Kek | 
+2023-01-16 14:37:37.6832|Info|Generate a request Body | 
+2023-01-16 14:41:18.9257|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody | 
+2023-01-16 14:41:18.9458|Info|Use Username: Kek | 
+2023-01-16 14:41:18.9458|Info|Use Password: Kek | 
+2023-01-16 14:41:18.9458|Info|Generate a request Body | 
+2023-01-16 14:41:40.1771|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody | 
+2023-01-16 14:41:40.1978|Info|Use Username: Kek | 
+2023-01-16 14:41:40.1978|Info|Use Password: Kek | 
+2023-01-16 14:41:40.1978|Info|Generate a request Body | 
+2023-01-16 14:45:45.4727|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody | 
+2023-01-16 14:45:45.4908|Info|Use Username: Kek | 
+2023-01-16 14:45:45.4908|Info|Use Password: Kek | 
+2023-01-16 14:45:45.4908|Info|Generate a request Body | 
+2023-01-16 14:46:24.7850|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody | 
+2023-01-16 14:46:24.8042|Info|Use Username: Kek | 
+2023-01-16 14:46:24.8044|Info|Use Password: Kek | 
+2023-01-16 14:46:24.8044|Info|Generate a request Body | 
+2023-01-16 14:47:41.4162|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody | 
+2023-01-16 14:47:41.4342|Info|Use Username: Kek | 
+2023-01-16 14:47:41.4342|Info|Use Password: Kek | 
+2023-01-16 14:47:41.4342|Info|Generate a request Body | 
+2023-01-16 14:48:46.1038|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody | 
+2023-01-16 14:48:46.1248|Info|Use Username: Kek | 
+2023-01-16 14:48:46.1248|Info|Use Password: Kek | 
+2023-01-16 14:48:46.1248|Info|Generate a request Body | 
+2023-01-16 14:50:27.8987|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody | 
+2023-01-16 14:50:27.9171|Info|Use Username: Kek | 
+2023-01-16 14:50:27.9171|Info|Use Password: Kek | 
+2023-01-16 14:50:27.9171|Info|Generate a request Body | 
+2023-01-16 14:58:00.8800|Info|Use URL: https://dx1-db.codm.gazprom.loc:50001/XISOAPAdapter/MessageServlet?senderParty=&senderService=GTCH_DIRECTUM_D&receiverParty=&receiverService=&interface=eDocumentBodyOut&interfaceNamespace=http%3A%2F%2Finform.gazprom.ru%2FI%2FIUSPT2_SED%2FeDocumentBody | 
+2023-01-16 14:58:00.9003|Info|Use Username: Kek | 
+2023-01-16 14:58:00.9003|Info|Use Password: Kek | 
+2023-01-16 14:58:00.9003|Info|Generate a request Body | 
+2023-01-16 14:58:04.2094|Error|Этот хост неизвестен. Этот хост неизвестен. | 
+2023-01-16 14:58:04.2094|Error|Этот хост неизвестен. | 
